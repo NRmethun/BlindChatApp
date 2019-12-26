@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "721510946255",
+    "firebase_url": "https://chatappblind.firebaseio.com",
+    "project_id": "chatappblind",
+    "storage_bucket": "chatappblind.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721510946255:android:040808dc7d7e866ae76eba",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "721510946255-dsbqr830j3clvnb1quhvg6m2ar5o3v1r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapplication",
+            "certificate_hash": "eae03ec10d2e5ab921ba6cbf91f751d389ee194f"
+          }
+        },
+        {
+          "client_id": "721510946255-b1gu9og6nppsh1dfsru3cbjecjknbbhb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJYmWgtp2nAf6h8e03QWQexHfeHCBPTr8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "721510946255-b1gu9og6nppsh1dfsru3cbjecjknbbhb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
